@@ -1,1 +1,3 @@
-# CN-mini-project
+# Chatbot
+
+Tech :
